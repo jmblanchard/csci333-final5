@@ -1,0 +1,7 @@
+CSCI 333 Data Structures
+Final Exam Problem 5
+
+Program that takes twitter data located in a file and counts word
+frequency. It then prints the words in order of frequency in one file and
+prints the number of unique words and the lexical diversity in another
+file.
